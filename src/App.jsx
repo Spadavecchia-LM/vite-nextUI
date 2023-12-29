@@ -1,11 +1,10 @@
-import CustomNavBar from "./Components/CustomNavBar"
 
 
 function App() {
 
   return (
     <>
-  <CustomNavBar/>
+  <h1 className="text-primary underlined">Hola Mundo</h1>
     </>
   )
 }
